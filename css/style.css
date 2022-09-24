@@ -1,7 +1,7 @@
 body {
   padding: 0px;
   margin: 0px;
-  font-family: "georgia", sans-serif;
+  font-family: "Times New Roman", Times, serif;
   overflow: hidden;
 }
 body {
@@ -11,7 +11,7 @@ body {
   height: 200px;
   width: 100vw;
   position: absolute;
-  border-bottom: 3px solid orange;
+  border-bottom: 3px solid blue;
   top: 0;
   left: 0;
 }
@@ -49,7 +49,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: white;
+  background-color: lightblue;
   width: 100vw;
   z-index: 100;
   margin: 0;
